@@ -26,7 +26,7 @@
 
 [Visit the live application](https://zedd-weather.vercel.app)
 
-### Support
+### Supports
 
 Please support by starring this project. Follow me for more cool open-source projects.
 
